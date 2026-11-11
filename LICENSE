@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2026 dan-cube
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+CASE MATERIALS ARE NOT COVERED BY THIS LICENSE
+案例材料不在本许可范围内
+--------------------------------------------------------------------------------
+
+The MIT License above covers only this skill's own text and code. It does NOT
+cover the EonPoint 亿触点 case included in this repository:
+
+  - everything under `cases/eonpoint-precision/`;
+  - everything under `examples/eonpoint-precision/`, including the marks, letterforms and
+    patterns its code draws;
+  - any image of the EonPoint 亿触点 marks, wordmarks, palettes or brand
+    applications anywhere else in this repository.
+
+The design of these case materials is Copyright (c) 2026 dan-cube. All rights
+reserved. They are published only so that the method can be studied. Without
+prior written permission you may not use, copy, modify, adapt, redistribute or
+sell them, or use them in whole or in part as a logo or brand identity. The
+EonPoint 亿触点 name belongs to its owner.
+
+上面的 MIT 许可只覆盖本 skill 自己的文字和代码，不覆盖本仓库中的
+EonPoint 亿触点案例：
+
+  - `cases/eonpoint-precision/` 下的全部内容；
+  - `examples/eonpoint-precision/` 下的全部内容，包括其中代码画出的标志、字形与图案；
+  - 本仓库其他位置出现的 EonPoint 亿触点标志、字标、配色与品牌应用的图片。
+
+这些案例材料的设计版权归 dan-cube 所有，保留一切权利。它们只为学习方法而公开；
+未经书面许可，不得使用、复制、修改、改编、再分发或出售，也不得整体或部分用作
+标志或品牌形象。EonPoint 亿触点的名称归其所有者所有。
+
+Leica is a trademark of Leica Camera AG. This project only draws on the design
+thinking behind Leica's products and is not affiliated with Leica Camera AG.
+徕卡（Leica）是 Leica Camera AG 的商标。本项目只借鉴其产品背后的设计思想，与该公司无关。

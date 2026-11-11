@@ -1,0 +1,9 @@
+{
+  "name": "方案 C · 墨 · 纸 · 朱",
+  "colors": [
+    {"name": "纸 Paper", "hex": "#F0EDE6", "role": "base", "ratio": 74},
+    {"name": "墨 Sumi", "hex": "#151413", "role": "ink", "ratio": 20},
+    {"name": "石 Stone", "hex": "#CBC6BB", "role": "neutral", "ratio": 5},
+    {"name": "朱 Vermilion", "hex": "#D8402A", "role": "accent", "ratio": 1}
+  ]
+}
