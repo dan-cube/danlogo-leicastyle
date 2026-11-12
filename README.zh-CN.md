@@ -2,6 +2,8 @@
 
 [English](README.md) · 中文
 
+<img src="docs/images/hero.png" alt="DanLogo · Leica Style 徕卡风格：一个精确的主体，加上一处有人的温度的签名（案例：EonPoint 亿触点 方案 C「空」）" width="100%">
+
 > 快门落下的那一声：短、准、轻，然后安静。
 
 danlogo 系列的徕卡风格方向：一个给 AI 用的 logo / 品牌标志设计 skill。它包含一种设计风格、一套九阶段工作方法和一组绘图工具。风格的思想来自徕卡的产品与标志、乌尔姆设计学院与博朗的功能主义、艾舍与斯坦科夫斯基的系统识别、制造者印记的传统，以及密斯与具体艺术。沉淀自 EonPoint 亿触点的方案 C「空」，适用于 Claude（Claude Code、桌面版、claude.ai）与 Codex，以及其他支持 [Agent Skills](https://agentskills.io) 格式的工具。

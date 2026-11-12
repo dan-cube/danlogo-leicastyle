@@ -2,6 +2,8 @@
 
 English · [中文](README.zh-CN.md)
 
+<img src="docs/images/hero.png" alt="DanLogo · Leica Style 徕卡风格: one precise body plus one human signature (case: EonPoint 亿触点 scheme C “Kū”)" width="100%">
+
 > The sound of a shutter: short, exact, light, and then quiet.
 
 The Leica Style direction of the danlogo series: a logo and brand-identity design skill for AI tools. It bundles a design style, a nine-stage working method and a set of drawing tools. The style draws on the design thinking behind Leica's products and logo, the functionalism of the Ulm School and Braun, the system identities of Otl Aicher and Anton Stankowski, the tradition of makers' marks, and Mies and concrete art. It was distilled from the EonPoint 亿触点 scheme C "Kū (Emptiness)". It works with Claude (Claude Code, desktop, claude.ai), Codex, and any tool that reads the [Agent Skills](https://agentskills.io) format.

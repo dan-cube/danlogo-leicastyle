@@ -1,5 +1,9 @@
 # 更新记录
 
+## 0.1.1 · 2026-11-12
+
+- README 开头加头图，新增 GitHub 社交预览图：都在 `docs/images/`，用 `docs/make_images.py` 生成。图里的案例标志不在 MIT 许可之内（见 LICENSE）；`docs/` 不随 skill 安装或打包。
+
 ## 0.1.0 · 2026-11-10
 
 - 首个版本。从 EonPoint 方案 C「空」 方案反向拆解出徕卡风格。
